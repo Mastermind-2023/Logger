@@ -1,6 +1,6 @@
 ## Logger helper
 
-This little utility can be used to cetralize your logging and clear up log clutter.
+This little utility can be used to centralize your logging and clear up log clutter in the console.
 
 You can create a logger object for each category of logging that you want to do and then just call the public Log() function on the object from your objects that you assigned this logger to. 
 
